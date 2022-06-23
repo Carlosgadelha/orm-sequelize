@@ -1,2 +1,1 @@
 # orm-sequelize
-# orm-sequelize
